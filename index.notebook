@@ -1,0 +1,30 @@
+[
+  {
+    "text": "<h1 class=\"ql-align-center\">Quicker start Java?</h1><p>Did you start learning the Java programming language from the following little code:</p>",
+    "code": null
+  },
+  {
+    "text": null,
+    "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
+  },
+  {
+    "text": "<p>Now, you have the code and don't have to install Java environment in your box.  You can run it here.</p>",
+    "code": null
+  },
+  {
+    "text": null,
+    "code": "HelloWorld.main(null);"
+  },
+  {
+    "text": "<p>Indeed, you can get it quicker, with just one line of code:</p>",
+    "code": null
+  },
+  {
+    "text": null,
+    "code": "System.out.println(\"Hello, World!\");"
+  },
+  {
+    "text": "<p>Not bad, you can save your notebook for your reference later.</p>",
+    "code": null
+  }
+]
