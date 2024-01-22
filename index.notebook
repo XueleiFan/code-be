@@ -1,30 +1,26 @@
 [
   {
-    "text": "<h1 class=\"ql-align-center\">Quicker start Java?</h1><p>Did you start learning the Java programming language from the following little code:</p>",
+    "text": "<h1 class=\"ql-align-center\">Java Code Playground</h1><h3 class=\"ql-align-center\">Code, Run, Share - Instantly!</h3><p><br></p><p>From idea to execution, seamlessly! </p><p><br></p><p>Enter your thoughts, code your snippets, and hit \"go\" to watch them come alive in Java Code Playground.</p>",
     "code": null
   },
   {
     "text": null,
-    "code": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello, World!\");\n    }\n}"
+    "code": "// Enter your code and see it come to life!\nvar i = 0;"
   },
   {
-    "text": "<p>Now, you have the code and don't have to install Java environment in your box.  You can run it here.</p>",
+    "text": "<p>Code, evaluate, iterate - all in one place.</p>",
     "code": null
   },
   {
     "text": null,
-    "code": "HelloWorld.main(null);"
+    "code": "// Let's check it out!\n++i;"
   },
   {
-    "text": "<p>Indeed, you can get it quicker, with just one line of code:</p>",
+    "text": "<p>For in-depth guidance, use the <em>/help</em> command to access detailed usage information.</p>",
     "code": null
   },
   {
     "text": null,
-    "code": "System.out.println(\"Hello, World!\");"
-  },
-  {
-    "text": "<p>Not bad, you can save your notebook for your reference later.</p>",
-    "code": null
+    "code": "/help"
   }
 ]
